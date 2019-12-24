@@ -105,10 +105,6 @@ html, body {
 	margin-left: 10rem;
 }
 .imgg{
-	/*margin: 0 auto;
-	margin-left: -15rem;
-	max-height: 19rem;
-	width: 38rem;*/
 	width: 100%;	
 	vertical-align: middle;
 	height: 320px;
@@ -278,15 +274,13 @@ html, body {
 /*	margin-left: -8rem;*/
 }	
 .taxt{ 
-	color: #fff;
+	margin-left:41rem;
+	color: #dadde6;
 	font-family: 'Oswald', sans-serif;
-	display: flex;
-	justify-content: center;
 	padding-top: 17rem;
 }
 .taxt1{
-
-	color: #fff;
+	color: #dadde6;
 	padding-left: 38rem;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -346,8 +340,8 @@ padding-bottom: 5rem;
 .fa{
 	padding-top: -9px;
 	color: #fff;
-
 }
+
 
 
 
